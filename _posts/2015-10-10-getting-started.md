@@ -17,38 +17,19 @@ Pero a finales de los 60, la potencia de las maquinas empezó a aumentar de form
 
 ![alt text](https://histinf.blogs.upv.es/files/2010/12/crisis.png "Lagrange Demo Image") 
 
+Una de las principales causas de todo esto, si no la principal, era el enfoque dado al proceso de desarrollo de software, el cual era malo e incluso a veces era inexistente. En este proceso, solo ¼ del tiempo de desarrollo se dedicaba a las fases de análisis, diseño, codificación y pruebas, y más de ¾ del tiempo se dedicaba a correcciones y mantenimiento. Es evidente que dedicándole sol ¼ del tiempo a las primeras fases, se arrastran errores graves, sobre todo procedentes de las fases de análisis y diseño, lo que dificultaba muchísimo la implementación, produciendo constantes paradas y retrocesos para revisar este análisis/diseño.
 
-## Table of Contents
+## La Solucion
 
-1. [Introduction](#introduction)
-   1. [What is Jekyll](#what-is-jekyll)
-   2. [Never Used Jeykll Before?](#never-used-jekyll-before)
-2. [Installation](#installation)
-   1. [GitHub Pages Installation](#github-pages-installation)
-   2. [Local Installation](#local-installation)
-   3. [Directory Structure](#directory-structure)
-   4. [Starting From Scratch](#starting-from-scratch)
-3. [Configuration](#configuration)
-   1. [Sample Posts](#sample-posts)
-   2. [Site Variables](#site-variables)
-   3. [Adding Menu Pages](#adding-menu-pages)
-   4. [Posts](#posts)
-   5. [Layouts](#layouts)
-   6. [YAML Front Block Matter](#yaml-front-block-matter)
-4. [Features](#features)
-   1. [Design Considerations](#design-considerations)
-   2. [Disqus](#disqus)
-   3. [Google Analytics](#google-analytics)
-   4. [RSS Feeds](#rss-feeds)
-   5. [Social Media Icons](#social-media-icons)
-   6. [MathJax](#mathjax)
-   7. [Syntax Highlighting](#syntax-highlighting)
-   8. [Markdown](#markdown)
-5. [Everything Else](#everything-else)
-6. [Contributing](#Contributing)
-7. [Questions?](#questions)
-8. [Credits](#credits)
-9. [License](#license)
+Viendo el camino directo al precipicio que estaba llevando el desarrollo de software, había que tomar medidas para solucionarlo. Y esas medidas se llamaron “Ingeniería del Software”.
+Es decir, es una disciplina que intenta racionalizar el proceso de desarrollo de software y establecer unas pautas a seguir para el desarrollo que minimicen tiempo, esfuerzo, y coste de desarrollo y maximicen la calidad del software.
+
+Después de esta crisis, se intentaron establecer estas pautas, aplicándolos a algunos proyectos y aumentando la inversión. En 1991 se hizo un estudio para comprobar los resultados de la aplicación de estos métodos, y los resultados fueron bastante buenos. Había nacido una nueva disciplina, la Ingeniería del Software.
+
+![alt text](https://i.pinimg.com/564x/55/ec/d0/55ecd0faf62edd3d308ac65198e07c38.jpg "Lagrange Demo Image")
+
+
+ Para hacernos una idea mas concreta de lo que abarca la Ingeniería del Software (cosa que nos ayudará a entender porque fue la solución a esta Crisis del Software), debemos de centrar nuestra explicación en que la I.S busca principalmente software de calidad, que es aquel software que cumple los requisitos funcionales y de rendimiento establecidos previamente y consta de unos estándares de desarrollo bien documentados.
 
 ## Introduction
 
