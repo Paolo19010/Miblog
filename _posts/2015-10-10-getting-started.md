@@ -29,7 +29,11 @@ Después de esta crisis, se intentaron establecer estas pautas, aplicándolos a 
 ![alt text](https://i.pinimg.com/564x/55/ec/d0/55ecd0faf62edd3d308ac65198e07c38.jpg "Lagrange Demo Image")
 
 
- Para hacernos una idea mas concreta de lo que abarca la Ingeniería del Software (cosa que nos ayudará a entender porque fue la solución a esta Crisis del Software), debemos de centrar nuestra explicación en que la I.S busca principalmente software de calidad, que es aquel software que cumple los requisitos funcionales y de rendimiento establecidos previamente y consta de unos estándares de desarrollo bien documentados.
+ Por último, les dejo unas viñetas, muy vistas pero no por ello menos buenas, que resumen en unas pocas imágenes la gran problemática del desarrollo del software.
+
+![alt text](https://histinf.blogs.upv.es/files/2011/01/vi%C3%B1eta.jpg "Lagrange Demo Image")
+
+
 
 ## Introduction
 
