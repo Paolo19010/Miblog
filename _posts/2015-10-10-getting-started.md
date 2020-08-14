@@ -15,8 +15,6 @@ Durante finales de los años 50 y principios de los 60, la potencia computaciona
 
 Pero a finales de los 60, la potencia de las maquinas empezó a aumentar de forma considerable. Empezaron a aparecer los lenguajes de programación de alto nivel, y las maquinas necesitaban programas mucho más complejos de los desarrollados hasta la época. En definitiva, fue un salto tremendo en cuanto a potencial de hardware, que no fue acompañado por un salto en el desarrollo de software.
 
-En esta época, se empezó a concebir el Software como producto, y se empezaron a desarrollar algunos proyectos para que funcionaran en las máquinas de la época. Pero aparecieron importantes problemas: los productos excedían la estimación de costes, había retrasos en las entregas, las prestaciones no eran las solicitadas, el mantenimiento se hacía extremadamente complicado y a veces imposible, las modificaciones tenían un coste prohibitivo…en resumen, se desarrollaba software de mala calidad, ya que la técnica utilizada para desarrollar pequeños programas para maquinas con mucho menos potencial se quedaba desfasada, y muchas veces este software acababa en el olvido
-
 ![alt text](https://histinf.blogs.upv.es/files/2010/12/crisis.png "Lagrange Demo Image") 
 
 
