@@ -1,17 +1,22 @@
 ---
 layout: post
-title: "Ciclo de vida y paradigmas de los ciclos de software"
+title: "Introduccion a la materia"
 author: "Paolo.A"
 categories: journal
 tags: [documentation,sample]
 image: ciclo1.jpg
 ---
+## ¿Que es Software?
 
-El ciclo de vida del software, es el proceso que se sigue para construir, entregar y hacer evolucionar el software, desde la concepción de una idea hasta la entrega y retiro del sistema. Se definen las distintas fases intermedias que se requieren para validar el desarrollo de un software, es decir, para garantizar que el software cumpla los requisitos para la aplicación y verificación de los procedimientos de desarrollo, se asegura de que los métodos utilizados son apropiados.
+El software como tal es un conjunto de instrucciones lógicas que le permite al usuario interactuar con el computador a través de una interfaz, es lo que comúnmente se conoce como los programas del computador y van desde un editor de texto hasta aplicaciones que gestionan a otras.
 
-## Getting Started
+## ¿Cuales son los Objetivos de la Ingenieria de Software?
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+* mejorar la calidad de los productos de software
+* aumentar la productividad y trabajo de los ingenieros del software.
+* Facilitar el control del proceso de desarrollo de software.
+* Suministrar a los desarrolladores las bases para construir software de alta calidad en una forma eficiente.
+* Definir una disciplina que garantice la producción y el mantenimiento de los productos software           desarrollados en el plazo fijado y dentro del costo estimado.
 
 ## Example Content
 
