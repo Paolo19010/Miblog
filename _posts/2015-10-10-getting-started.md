@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Procesos de desarrollo de Software"
+author: "Paolo Alvarez"
 categories: journal
 tags: [documentation,sample]
-image: forest.jpg
+image: proceso1.jpg
 ---
 
-# Lagrange
+# Procesos de desarrollo de Software
 
-Lagrange is a minimalist Jekyll theme for running a personal blog or site for free through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Lagrange/).
+La ingeniería del software se vale de una serie de modelos que establecen y muestran las distintas etapas y estados por los que pasa un producto software, desde su concepción inicial, pasando por su desarrollo, puesta en marcha y posterior mantenimiento, hasta la retirada del producto. A estos modelos se les denomina “Modelos de ciclo de vida del software”. Un modelo de ciclo de vida de software es una vista de las actividades que ocurren durante el desarrollo de software, intenta determinar el orden de las etapas involucradas y los criterios de transición asociados entre estas etapas.
 
 ![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
 
