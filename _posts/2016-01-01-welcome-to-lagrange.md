@@ -29,7 +29,7 @@ Un proceso es un conjunto de actividades, acciones y tareas que se ejecutan cuan
 
 Una estructura de proceso general para la ingeniería de software consta de cinco actividades:
 
-![alt text](https://ingsotfwarekarlacevallos.files.wordpress.com/2015/04/4.png"Lagrange Demo Image")
+![alt text](![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image") 
 
 
 
