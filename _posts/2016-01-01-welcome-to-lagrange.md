@@ -12,6 +12,8 @@ El software como tal es un conjunto de instrucciones lógicas que le permite al 
 
 ## ¿Que es la ingenieria de Software?
 
+![alt text](https://cdn.ticbeat.com/src/uploads/2017/10/ingeniero-de-software.jpg "Lagrange Demo Image")
+
 Es una disciplina de la ingenieria que concierne a todos los aspectos de la produccion de software.
 Los Ingenieros de Software deben: 
 * Adoptar un enfoque sistematico para llevar a cabo su trabajo
@@ -20,7 +22,6 @@ Los Ingenieros de Software deben:
     * las restricciones del desarrollo y
     * los recursos disponibles
 
-![alt text](https://cdn.ticbeat.com/src/uploads/2017/10/ingeniero-de-software.jpg "Lagrange Demo Image")
     
 ## ¿Cuales son los Objetivos de la Ingenieria de Software?
 
