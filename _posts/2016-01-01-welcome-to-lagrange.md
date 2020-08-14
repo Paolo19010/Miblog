@@ -18,9 +18,13 @@ El software como tal es un conjunto de instrucciones lógicas que le permite al 
 * Suministrar a los desarrolladores las bases para construir software de alta calidad en una forma eficiente.
 * Definir una disciplina que garantice la producción y el mantenimiento de los productos software           desarrollados en el plazo fijado y dentro del costo estimado.
 
-## Example Content
+## ¿Que es un proceso de Software?
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+La ingeniería de software es una tecnología de varias capas las mismas que deben asegurar la calidad del producto, El fundamento para la ingeniería de software es la capa proceso. El proceso define una estructura que debe establecerse para la obtención eficaz de tecnología de ingeniería de software. El proceso de software forma la base para el control de la administración de proyectos de software, y establece el contexto en el que se aplican métodos técnicos, se generan productos del trabajo (modelos, documentos, datos, reportes, formatos, etc.), se establecen puntos de referencia, se asegura la calidad y se administra el cambio de manera apropiada (Pressman, R. 2010).
+
+![alt text](https://ingsotfwarekarlacevallos.files.wordpress.com/2015/04/3.png "Lagrange Demo Image")
+
+
 
 ## Questions?
 
