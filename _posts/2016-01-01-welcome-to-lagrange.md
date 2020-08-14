@@ -20,7 +20,7 @@ Los Ingenieros de Software deben:
     * las restricciones del desarrollo y
     * los recursos disponibles
 
-![alt text](https://cdn.ticbeat.com/src/uploads/2017/10/ingeniero-de-software.jpg"Lagrange Demo Image")
+![alt text](https://cdn.ticbeat.com/src/uploads/2017/10/ingeniero-de-software.jpg "Lagrange Demo Image")
     
 ## ¿Cuales son los Objetivos de la Ingenieria de Software?
 
