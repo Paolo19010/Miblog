@@ -1,15 +1,13 @@
 ---
 layout: post
-title: "Procesos de desarrollo de Software"
+title: "Crisis del Software"
 author: "Paolo Alvarez"
 categories: journal
 tags: [documentation,sample]
-image: desarrollo.jpg
+image: crisis.jpg
 ---
 
-
-
-La ingeniería del software se vale de una serie de modelos que establecen y muestran las distintas etapas y estados por los que pasa un producto software, desde su concepción inicial, pasando por su desarrollo, puesta en marcha y posterior mantenimiento, hasta la retirada del producto. A estos modelos se les denomina “Modelos de ciclo de vida del software”. Un modelo de ciclo de vida de software es una vista de las actividades que ocurren durante el desarrollo de software, intenta determinar el orden de las etapas involucradas y los criterios de transición asociados entre estas etapas.
+El término “Crisis del Software” fue acuñado a principios de los años 70, cuando la ingeniería de software era prácticamente inexistente. El término expresaba las dificultades del desarrollo de software frente al rápido crecimiento de la demanda por software, de la complexidad de los problemas a ser resueltos y de la inexistencia de técnicas establecidas para el desarrollo de sistemas que funcionaran adecuadamente o pudieran ser validados.
 
 ![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
 
