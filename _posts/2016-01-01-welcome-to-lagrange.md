@@ -4,7 +4,7 @@ title: "Ciclo de vida y paradigmas de los ciclos de software"
 author: "Paolo.A"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: ciclo1.jpg
 ---
 
 El ciclo de vida del software, es el proceso que se sigue para construir, entregar y hacer evolucionar el software, desde la concepción de una idea hasta la entrega y retiro del sistema. Se definen las distintas fases intermedias que se requieren para validar el desarrollo de un software, es decir, para garantizar que el software cumpla los requisitos para la aplicación y verificación de los procedimientos de desarrollo, se asegura de que los métodos utilizados son apropiados.
