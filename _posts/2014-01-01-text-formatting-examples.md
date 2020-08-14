@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Text Formatting Examples"
-author: "Paul Le"
+title: "Estandares relacionados con el proceso de software"
+author: "Paolo Alvarez"
 categories: journal
 tags: [documentation,sample]
-image: cards.jpg
+image: normas-ISO.jpg
 ---
 
-# Markdown Support
 
-As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
+
+La calidad de los sistemas informáticos se ha convertido hoy en día en uno de los principales objetivos estratégicos de las organizaciones debido a que, cada vez más, su supervivencia depende de los sistemas informáticos. La calidad del software, trata los conceptos, los métodos, las técnicas, los procedimientos y los estándares necesarios para producir productos y procesos software de alta calidad.
 
 ## Basic Formatting
 
