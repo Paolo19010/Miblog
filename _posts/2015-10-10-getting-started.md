@@ -9,21 +9,16 @@ image: s.jpg
 
 El término “Crisis del Software” fue acuñado a principios de los años 70, cuando la ingeniería de software era prácticamente inexistente. El término expresaba las dificultades del desarrollo de software frente al rápido crecimiento de la demanda por software, de la complexidad de los problemas a ser resueltos y de la inexistencia de técnicas establecidas para el desarrollo de sistemas que funcionaran adecuadamente o pudieran ser validados.
 
-![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
+## Causas de la crisis de Software
 
-## Notable features
+Durante finales de los años 50 y principios de los 60, la potencia computacional de las maquinas era bastante limitada. Es por esto que los programas que se desarrollaban eran “simples” desde nuestro punto de vista actual. Seguían un proceso de desarrollo bastante artesanal, sin una metodología o un camino a seguir para su desarrollo. En esta época se solían usar los lenguajes de bajo nivel para el desarrollo de Software.
 
-* Compatible with GitHub Pages.
+Pero a finales de los 60, la potencia de las maquinas empezó a aumentar de forma considerable. Empezaron a aparecer los lenguajes de programación de alto nivel, y las maquinas necesitaban programas mucho más complejos de los desarrollados hasta la época. En definitiva, fue un salto tremendo en cuanto a potencial de hardware, que no fue acompañado por un salto en el desarrollo de software.
 
-* Support for Jekyll's built-in Sass/SCSS preprocessor and data files for making customizing easier.
+En esta época, se empezó a concebir el Software como producto, y se empezaron a desarrollar algunos proyectos para que funcionaran en las máquinas de la época. Pero aparecieron importantes problemas: los productos excedían la estimación de costes, había retrasos en las entregas, las prestaciones no eran las solicitadas, el mantenimiento se hacía extremadamente complicado y a veces imposible, las modificaciones tenían un coste prohibitivo…en resumen, se desarrollaba software de mala calidad, ya que la técnica utilizada para desarrollar pequeños programas para maquinas con mucho menos potencial se quedaba desfasada, y muchas veces este software acababa en el olvido
 
-* [Google Analytics](https://www.google.com/analytics/) support.
+![alt text](https://histinf.blogs.upv.es/files/2010/12/crisis.png "Lagrange Demo Image") 
 
-* Commenting support powered by [Disqus](https://disqus.com/).
-
-* Optimized for search engines.
-
-* LaTeX support through [MathJax](https://www.mathjax.org/).
 
 ## Table of Contents
 
