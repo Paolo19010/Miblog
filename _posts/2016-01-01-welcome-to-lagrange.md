@@ -10,6 +10,7 @@ image: ciclo1.jpg
 
 El software como tal es un conjunto de instrucciones lógicas que le permite al usuario interactuar con el computador a través de una interfaz, es lo que comúnmente se conoce como los programas del computador y van desde un editor de texto hasta aplicaciones que gestionan a otras.
 
+
 ## ¿Cuales son los Objetivos de la Ingenieria de Software?
 
 * mejorar la calidad de los productos de software
@@ -20,9 +21,15 @@ El software como tal es un conjunto de instrucciones lógicas que le permite al 
 
 ## ¿Que es un proceso de Software?
 
-La ingeniería de software es una tecnología de varias capas las mismas que deben asegurar la calidad del producto, El fundamento para la ingeniería de software es la capa proceso. El proceso define una estructura que debe establecerse para la obtención eficaz de tecnología de ingeniería de software. El proceso de software forma la base para el control de la administración de proyectos de software, y establece el contexto en el que se aplican métodos técnicos, se generan productos del trabajo (modelos, documentos, datos, reportes, formatos, etc.), se establecen puntos de referencia, se asegura la calidad y se administra el cambio de manera apropiada (Pressman, R. 2010).
+Un proceso es un conjunto de actividades, acciones y tareas que se ejecutan cuando va a crearse algún producto del trabajo, a continuación se definen cada uno de estos términos.
 
-![alt text](https://ingsotfwarekarlacevallos.files.wordpress.com/2015/04/3.png "Lagrange Demo Image")
+* Una actividad busca lograr un objetivo amplio (por ejemplo, comunicación con los participantes) y se desarrolla sin importar el dominio de la aplicación, tamaño del proyecto, complejidad del esfuerzo o grado de rigor con el que se usará la ingeniería de software.
+* Una acción (diseño de la arquitectura) es un conjunto de tareas que producen un producto importante del trabajo (por ejemplo, un modelo del diseño de la arquitectura).
+* Una tarea se centra en un objetivo pequeño pero bien definido (por ejemplo, realizar una prueba unitaria) que produce un resultado tangible.
+
+Una estructura de proceso general para la ingeniería de software consta de cinco actividades:
+
+![alt text](https://ingsotfwarekarlacevallos.files.wordpress.com/2015/04/4.png"Lagrange Demo Image")
 
 
 
