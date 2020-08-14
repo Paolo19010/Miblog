@@ -37,6 +37,8 @@ Una estructura de proceso general para la ingeniería de software consta de cinc
 
 Actualmente, hay siete grandes categorías de software de computadora que plantean retos continuos a los ingenieros de software, a continuación se muestran las mas conocidas:
 
+![alt text](https://media.biobiochile.cl/wp-content/uploads/2015/12/pro-730x363.jpg "Lagrange Demo Image") 
+
 **Software de sistemas**: conjunto de programas escritos para dar servicio a otros programas. Determinado software de sistemas (por ejemplo, compiladores, editores y herramientas para administrar archivos)
 
 **Software de aplicación**: programas aislados que resuelven una necesidad específica de negocios se usa para controlar funciones de negocios en tiempo real (por ejemplo, procesamiento de transacciones en punto de venta, control de procesos de manufactura en tiempo real).
