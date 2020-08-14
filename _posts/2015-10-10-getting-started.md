@@ -4,7 +4,7 @@ title: "Crisis del Software"
 author: "Paolo Alvarez"
 categories: journal
 tags: [documentation,sample]
-image: crisis.jpg
+image: cris.jpg
 ---
 
 El término “Crisis del Software” fue acuñado a principios de los años 70, cuando la ingeniería de software era prácticamente inexistente. El término expresaba las dificultades del desarrollo de software frente al rápido crecimiento de la demanda por software, de la complexidad de los problemas a ser resueltos y de la inexistencia de técnicas establecidas para el desarrollo de sistemas que funcionaran adecuadamente o pudieran ser validados.
