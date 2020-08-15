@@ -10,7 +10,7 @@ image: ciclo1.jpg
 
 El software como tal es un conjunto de instrucciones lógicas que le permite al usuario interactuar con el computador a través de una interfaz, es lo que comúnmente se conoce como los programas del computador y van desde un editor de texto hasta aplicaciones que gestionan a otras.
 
-## ¿Que es la ingenieria de Software?
+## ¿Que es la ingeniería de Software?
 
 ![alt text](https://cdn.ticbeat.com/src/uploads/2017/10/ingeniero-de-software.jpg "Lagrange Demo Image")
 
@@ -23,7 +23,7 @@ Los Ingenieros de Software deben:
     * los recursos disponibles
 
     
-## ¿Cuales son los Objetivos de la Ingenieria de Software?
+## ¿Cuales son los Objetivos de la Ingeniería de Software?
 
 * mejorar la calidad de los productos de software
 * aumentar la productividad y trabajo de los ingenieros del software.
