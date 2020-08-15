@@ -45,6 +45,7 @@ El modelo de ciclo de vida cascada, captura algunos principios básicos:
 * Testear un sistema después de construirlo.
 
 Una de las contribuciones más importantes del modelo cascada es para los administradores, posibilitandoles avanzar en el desarrollo, aunque en una escala muy bruta.
+Se recomienda utilizar para aquellos que disponen de todas las especificaciones del proyecto desde el principio, por ejemplo, los de reingeniería en sí (Proyectos complejos que se entienden bien desde el inicio).
 
 
 ## Headings
