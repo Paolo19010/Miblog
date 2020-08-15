@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Estandares relacionados con el proceso de software"
+title: "Desarrollo de Software"
 author: "Paolo Alvarez"
 categories: journal
 tags: [documentation,sample]
-image: normas-ISO.jpg
+image: modu3.jpg
 ---
 
+## Ciclo de vida y paradigmas de desarrollo de Software
 
+El ciclo de vida del software, es el proceso que se sigue para construir, entregar y hacer evolucionar el software, desde la concepción de una idea hasta la entrega y retiro del sistema. Se definen las distintas fases intermedias que se requieren para validar el desarrollo de un software, es decir, para garantizar que el software cumpla los requisitos para la aplicación y verificación de los procedimientos de desarrollo, se asegura de que los métodos utilizados son apropiados.
 
-La calidad de los sistemas informáticos se ha convertido hoy en día en uno de los principales objetivos estratégicos de las organizaciones debido a que, cada vez más, su supervivencia depende de los sistemas informáticos. La calidad del software, trata los conceptos, los métodos, las técnicas, los procedimientos y los estándares necesarios para producir productos y procesos software de alta calidad.
+![alt text](https://www.belatrixsf.com/blog/wp-content/uploads/2020/02/Software-Development-Life-Cycle.png "Lagrange Demo Image")
+
+La ingeniería del software se vale de una serie de modelos que establecen y muestran las distintas etapas y estados por los que pasa un producto software, desde su concepción inicial, pasando por su desarrollo, puesta en marcha y posterior mantenimiento, hasta la retirada del producto. A estos modelos se les denomina “Modelos de ciclo de vida del software”. Un modelo de ciclo de vida de software es una vista de las actividades que ocurren durante el desarrollo de software, intenta determinar el orden de las etapas involucradas y los criterios de transición asociados entre estas etapas.
 
 ## Basic Formatting
 
