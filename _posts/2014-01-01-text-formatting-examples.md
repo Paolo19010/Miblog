@@ -34,6 +34,18 @@ Así, los modelos por una parte suministran una guía para los ingenieros de sof
 
 Este  es el más básico de todos los modelos, y sirve como bloque de construcción para los demás modelos de ciclo de vida. La visión del modelo cascada del desarrollo de software es muy simple; dice que el desarrollo de software puede ser a través de una secuencia simple de frases. Cada frase tienen un conjunto de metas bien definidas, y las actividades dentro de una fase contribuyen a la satisfacción de metas de la fase o quizás a una subsecuencia de metas de la fase. Las flechas muestran el flujo de información entre las fases. La flecha de avance muestra el flujo normal. Las flechas hacia atrás representan la retroalimentación.
 
+**Caracteristicas del modelo cascada**
+El modelo de ciclo de vida cascada, captura algunos principios básicos:
+
+* Planear un proyecto antes de embarcarse en él.
+* Definir el comportamiento extremo deseado del sistema antes de diseñar su arquitectura interna.
+* Documentar los resultados de cada actividad.
+* Diseñar un sistema antes de codificarlo.
+* Testear un sistema después de construirlo.
+
+Una de las contribuciones más importantes del modelo cascada es para los administradores, posibilitandoles avanzar en el desarrollo, aunque en una escala muy bruta.
+
+
 ## Headings
 
 Sometimes it is useful to have different levels of headings to structure your documents. Start lines with `#` to create headings. Multiple `##` in a row denote smaller heading size. The following demonstrate the full range of heading sizes:
