@@ -1,13 +1,18 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "Estándares relacionados con el proceso de software"
+author: "Paolo Alvarez"
 categories: journal
 tags: [documentation,sample]
-image: spools.jpg
+image: normas-ISO.jpg
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+La calidad de los sistemas informáticos se ha convertido hoy en día en uno de los principales objetivos estratégicos de las organizaciones debido a que, cada vez más, su supervivencia depende de los sistemas informáticos.
+
+La calidad del software, trata los conceptos, los métodos, las técnicas, los procedimientos y los estándares necesarios para producir productos y procesos software de alta calidad.
+
+Para garantizar la calidad de software es importante implementar algún modelo o estándar de calidad que permita la gestión de atributos en el proceso de construcción de software, teniendo en cuenta que la concordancia de los requisitos y su construcción son la base de las medidas de calidad establecidas.
+
 
 ## [Free Code Camp](https://www.freecodecamp.org/)
 
