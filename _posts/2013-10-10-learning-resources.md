@@ -13,6 +13,9 @@ La calidad del software, trata los conceptos, los métodos, las técnicas, los p
 
 Para garantizar la calidad de software es importante implementar algún modelo o estándar de calidad que permita la gestión de atributos en el proceso de construcción de software, teniendo en cuenta que la concordancia de los requisitos y su construcción son la base de las medidas de calidad establecidas.
 
+![alt text](https://blog.desafiolatam.com/wp-content/uploads/2018/10/background-software-quality-metrics-1.png "Lagrange Demo Image")
+
+La calidad de un sistema software debe ser programada desde el inicio del proyecto, y posteriormente en cada etapa del proceso de desarrollo se debe llevar a cabo el control y seguimiento de los aspectos de calidad, para minimizar los riesgos y ofrecer soporte continuo, se garantiza así un óptimo nivel de cumplimiento de los factores de calidad, teniendo en cuenta que si en alguna de las etapas se deja de lado la verificación de los factores y criterios es posible que se presente deficiencia en alguno de éstos y disminuirá el nivel de calidad no solo del proceso, sino también del producto en desarrollo.
 
 ## [Free Code Camp](https://www.freecodecamp.org/)
 
