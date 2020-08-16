@@ -83,7 +83,7 @@ El modelo espiral no es una alternativa del modelo cascada, ellos son completame
 Desarrollo iterativo y creciente (o incremental) es un proceso de desarrollo de software, creado en respuesta a las debilidades del modelo tradicional  de cascada.
 
 La idea principal detrás del mejoramiento iterativo, es desarrollar un sistema de programas de manera incremental, permitiéndole al desarrollador sacar ventaja de lo que se ha aprendido a lo largo del desarrollo anterior, incrementando, versiones entregables del sistema. El aprendizaje viene de dos vertientes: el desarrollo del sistema, y su uso (mientras sea posible).
- 
+
 Los pasos claves en el proceso son comenzar con una implementación simple de los requerimientos del sistema, e iterativamente mejorar la secuencia evolutiva de versiones hasta que el sistema completo este implementado. En cada iteración, se realizan cambios en el diseño y se agregan nuevas funcionalidades y capacidades del sistema.
 
 **Caracteristicas**
@@ -97,9 +97,25 @@ Estas mediciones y actividades de analisis pueden ser añadidas a los metodos de
 
 El modelo incremental se aplica cuando en un proyecto tenemos un tiempo límite y no disponemos del personal suficiente para que nuestro propósito sea implementado completamente.
 
-## Heading Two (h2)
+## Modelo Prototipo
 
-### Heading Three (h3)
+![alt text](https://sites.google.com/site/is11801/_/rsrc/1239160607222/contenido/modelos-de-proceso-evolutivo/prototipos.jpg "Lagrange Demo Image")
+
+El modelo de prototipos, en ingeniería de software, pertenece a los modelos de desarrollo evolutivo. El prototipo debe ser construido en poco tiempo, usando los programas adecuados y no se debe utilizar muchos recursos. El diseño rápido se centra en  una representación de aquellos aspectos del software que serán visibles para el cliente o el usuario final.
+
+ Este diseño conduce a la construcción de un prototipo el cual es evaluado por el cliente para una retroalimentación; gracias a esta se refinan los requisitos del software que se desarrollara. La interacción ocurre cuando el prototipo se ajusta para satisfacer las necesidades del cliente. Esto permite que al mismo tiempo el desarrollador entienda mejor lo que se debe hacer y el cliente vea resultados a corto plazo.
+
+ **Etapas**
+
+* Plan rápido
+* Modelado, diseño rápido.
+* Construcción del prototipo
+* Desarrollo, entrega y retroalimentación
+* Comunicación
+
+Este modelo es adecuado cuando se desea desarrollar programas didácticos computarizados de una manera mas abierta de modo que el cliente en este caso los profesores realicen los refinamientos o las  aportaciones necesarias.
+
+### Modelo basado en componentes
 
 #### Heading Four (h4)
 
