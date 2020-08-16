@@ -1,18 +1,9 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Proyecto de Introducción a la ingeniería de software
+image: Autorp.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Hola mi nombre es Jean Paolo Alvarez Velez, tengo 19 años de edad, actual estudiante de la Universidad de Guayaquil, esta pagina es un proyecto para la materia de Introduccion a la ingenieria de Software, espero que sea de su agrado.
 
-### Getting Started
-
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+**Curso:** Soft ve 1-16 - Universidad de Guayaquil
