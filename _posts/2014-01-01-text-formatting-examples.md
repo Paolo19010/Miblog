@@ -117,7 +117,78 @@ Este modelo es adecuado cuando se desea desarrollar programas didácticos comput
 
 ### Modelo basado en componentes
 
-#### Heading Four (h4)
+![alt text](https://sites.google.com/site/is11801/_/rsrc/1239160607222/contenido/modelos-de-proceso-evolutivo/prototipos.jpg "Lagrange Demo Image")
+
+El modelo de desarrollo basado en componentes conduce a la reutilización del software, y la reutilización proporciona beneficios a los ingenieros de software. Según estudios de reutilización, QSM Asocciate, Inc. Informa que el ensamblaje de componentes lleva a una reducción del 70% el ciclo de desarrollo un 84% del coste del proyecto y un índice de productividad del 26.2. No hay duda que el ensamblaje de componentes proporciona ventajas significativas para los ingenieros de software.
+
+El proceso unificado de desarrollo de software representa un número de modelos de desarrollo basado en componentes que han sido propuestos en la industria. El lenguaje de modelo unificado define los componentes. Utilizando una combinación del desarrollo incremental e interactivo, el proceso unificado define la función del sistema aplicando un enfoque basado en escenarios. 
+
+**Caracteristicas**
+
+* Evolutivo por naturaleza
+* Exige un enfoque iterativo
+* Notación de componentes
+* Diagrama de componentes
+* Interfaces
+* Componentes y nodos
+* Restricciones
+
+
+## Modelo de desarrollo agil
+
+![alt text](https://comunidad.iebschool.com/metodologiasagiles/files/2015/05/metodologias-agiles.jpg "Lagrange Demo Image")
+
+Las metodologías ágiles son métodos de desarrollo de software en los que las necesidades y soluciones evolucionan a través de una colaboración estrecha entre equipos multidisciplinarios. Se caracterizan por enfatizar la comunicación frente a la documentación, por el desarrollo evolutivo y por su flexibilidad.
+
+Estas metodologías surgen a principios del 2001 en respuesta a los modelos de proceso clásicos ya existentes. La aparición de procesos ágiles se debe al hecho de haber encontrado estos supuestos clave en desarrollos precedentes:
+
+* Es difícil predecir qué requisitos persistirán y cuales cambiarán, así como las prioridades del cliente.
+* El diseño y el desarrollo de software están intercalados. Por ello se realizarán conjuntamente, probando el diseño a medida que se crea, pues es complicado predecir cuánto diseño es necesario antes de llegar a implementarlo.
+* El análisis, el diseño y la implementación no son predecibles desde el punto de vista de la planificación.todologías Agiles
+
+**El proceso ágil requiere una serie de características sobre el equipo de desarrollo:**
+
+* Competencia técnica
+* Enfoque común: entregar al cliente un incremento dentro del plazo
+* Colaboración entre todos los participantes
+* Autonomía para la toma de decisiones
+* Capacidad de resolución de problemas confusos
+* Confianza y respeto mutuo en el equipo
+* Organización propia
+
+**Existe una denominada Alianza Ágil que define los siguientes 12 principios para toda metodología ágil:**
+
+1. Satisfacer al cliente con entregas tempranas y continuas de software valioso.
+2.	Los requisitos cambiantes son bienvenidos, incluso en fases tardías del desarrollo.
+3.	Entregar con frecuencia software funcionando, -de dos semanas a dos meses,- cuanto antes se haga mejor.
+4.	El cliente y los desarrolladores deben trabajar juntos a diario a lo largo del proyecto.
+5.	Individuos motivados. Darles el ambiente y el soporte que necesitan, y confiar en ellos para obtener el trabajo realizado.
+6.	El método más eficiente y efectivo de transmitir información hacia y dentro del equipo es la conversación cara a cara.
+7.	El software en funcionamiento es la medida principal de progreso.
+8.	El desarrollo debe ser sostenible. Los participantes deben ser capaces de mantener un paso constante de manera indefinida.
+9.	Atención continua a la excelencia técnica y a un buen diseño.
+10.	La simplicidad es esencial, maximizando el avance del trabajo no realizado.
+11.	Las mejores arquitecturas, los mejores requisitos y los mejores diseños emergen de equipos auto-organizados.
+12.	A intervalos regulares el equipo refleja la forma en que se puede volver más efectivo, entonces su comportamiento se ajusta y adecua en concordancia.
+
+**Algunas de las técnicas basadas en la metodología de desarrollo ágil más populares:**
+
+* Extreme Programming
+* Scrum
+* Dynamic Systems Development Method (DSDM)
+* Proceso Unificado Ágil (Agile Unified Process)
+* Desarrollo Adaptativo de Software (Adaptive software development)
+* Modelado Ágil (Agile Modeling)
+
+![alt text](https://www.bravent.net/wp-content/uploads/2016/06/metodologias-agiles.jpg "Lagrange Demo Image")
+
+
+
+
+
+
+
+
 
 ##### Heading Five (h5)
 
