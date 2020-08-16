@@ -82,7 +82,9 @@ El modelo espiral no es una alternativa del modelo cascada, ellos son completame
 
 Desarrollo iterativo y creciente (o incremental) es un proceso de desarrollo de software, creado en respuesta a las debilidades del modelo tradicional  de cascada.
 
-La idea principal detrás del mejoramiento iterativo, es desarrollar un sistema de programas de manera incremental, permitiéndole al desarrollador sacar ventaja de lo que se ha aprendido a lo largo del desarrollo anterior, incrementando, versiones entregables del sistema. E l aprendizaje viene de dos vertientes: el desarrollo del sistema, y su uso (mientras sea posible). L os pasos claves en el proceso son comenzar con una implementación simple de los requerimientos del sistema, e iterativamente mejorar la secuencia evolutiva de versiones hasta que el sistema completo este implementado. E n cada iteración, se realizan cambios en el diseño y se agregan nuevas funcionalidades y capacidades del sistema.
+La idea principal detrás del mejoramiento iterativo, es desarrollar un sistema de programas de manera incremental, permitiéndole al desarrollador sacar ventaja de lo que se ha aprendido a lo largo del desarrollo anterior, incrementando, versiones entregables del sistema. El aprendizaje viene de dos vertientes: el desarrollo del sistema, y su uso (mientras sea posible).
+ 
+Los pasos claves en el proceso son comenzar con una implementación simple de los requerimientos del sistema, e iterativamente mejorar la secuencia evolutiva de versiones hasta que el sistema completo este implementado. En cada iteración, se realizan cambios en el diseño y se agregan nuevas funcionalidades y capacidades del sistema.
 
 **Caracteristicas**
 
