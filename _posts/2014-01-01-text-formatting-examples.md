@@ -76,8 +76,24 @@ El modelo espiral no es una alternativa del modelo cascada, ellos son completame
  El sistema es muy utilizado en proyectos grandes y complejos como puede ser, por ejemplo, la creación de un Sistema operativo.
 
 
+# Modelo Incremental
 
-# Heading One (h1)
+![alt text](https://www.researchgate.net/profile/Alejandro_Aldas_Alarcon/publication/326571456/figure/fig6/AS:651789682614280@1532410178239/Figura-10-Modelo-de-proceso-incremental-Fuente.png "Lagrange Demo Image")
+
+Desarrollo iterativo y creciente (o incremental) es un proceso de desarrollo de software, creado en respuesta a las debilidades del modelo tradicional  de cascada.
+
+La idea principal detrás del mejoramiento iterativo, es desarrollar un sistema de programas de manera incremental, permitiéndole al desarrollador sacar ventaja de lo que se ha aprendido a lo largo del desarrollo anterior, incrementando, versiones entregables del sistema. E l aprendizaje viene de dos vertientes: el desarrollo del sistema, y su uso (mientras sea posible). L os pasos claves en el proceso son comenzar con una implementación simple de los requerimientos del sistema, e iterativamente mejorar la secuencia evolutiva de versiones hasta que el sistema completo este implementado. E n cada iteración, se realizan cambios en el diseño y se agregan nuevas funcionalidades y capacidades del sistema.
+
+**Caracteristicas**
+
+Usando analisis y mediciones como guias para el proceso de mejora es una diferencia mayor entre las mejoras iterativas y el desarrollo rapido de aplicaciones, principalmente por dos razones:
+
+* Provee de soporte para determinar la efectividad de los procesos y de la calidad del producto.
+* Permite estudiar y despues mejorar y ajustar el proceso para el ambiente en particular.
+
+Estas mediciones y actividades de analisis pueden ser añadidas a los metodos de desarrollo rapido existentes.
+
+El modelo incremental se aplica cuando en un proyecto tenemos un tiempo límite y no disponemos del personal suficiente para que nuestro propósito sea implementado completamente.
 
 ## Heading Two (h2)
 
