@@ -49,9 +49,33 @@ Una de las contribuciones más importantes del modelo cascada es para los admini
 Se recomienda utilizar para aquellos que disponen de todas las especificaciones del proyecto desde el principio, por ejemplo, los de reingeniería en sí (Proyectos complejos que se entienden bien desde el inicio).
 
 
-## Headings
+## Modelo en Espiral
 
-Sometimes it is useful to have different levels of headings to structure your documents. Start lines with `#` to create headings. Multiple `##` in a row denote smaller heading size. The following demonstrate the full range of heading sizes:
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ModeloEspiral.svg/359px-ModeloEspiral.svg.png "Lagrange Demo Image")
+
+La dimensión radial en la figura refleja costos acumulativos incurridos en el proyecto.
+
+El modelo espiral de los procesos software es un modelo del ciclo de meta-vida. En este modelo, el esfuerzo de desarrollo es iterativo. Tan pronto como uno completa un esfuerzo de desarrollo, otro comienza. Además, en cada desarrollo ejecutado, puedes seguir estos cuatro pasos:
+
+* Determinar qué quieres lograr.
+* Determinar las rutas alternativas que puedes tomar para lograr estas metas.
+* Por cada una, analizar los riesgos y resultados finales, y seleccionar la mejor.
+* Segur la alternativa seleccionada en el segundo paso.
+* Establecer que tienes terminado.
+
+**El modelo espiral captura algunos principios básicos:**
+
+* Decidir qué problema se quiere resolver antes de viajar a resolverlo.
+* Examinar tus múltiples alternativas de acción y elegir una de las más convenientes.
+* Evaluar que tienes hecho y que tienes que haber aprendido después de hacer algo.
+* No ser tan ingenuo para pensar que el sistema que estas construyendo será “El” sistema que el cliente necesita.
+* Conocer (comprender) los niveles de riesgo, que tendrás que tolerar.
+
+El modelo espiral no es una alternativa del modelo cascada, ellos son completamente compatibles.
+
+ El sistema es muy utilizado en proyectos grandes y complejos como puede ser, por ejemplo, la creación de un Sistema operativo.
+
+
 
 # Heading One (h1)
 
