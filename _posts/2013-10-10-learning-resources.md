@@ -274,12 +274,19 @@ La versión resumida del código sintetiza las aspiraciones a un nivel elevado d
 Los ingenieros de software debieran obligarse a hacer del análisis, especificación, diseño, desarrollo, pruebas y mantenimiento del software una profesión respetada y beneficiosa. En concordancia con la obligación con el bienestar, salud y seguridad de la sociedad, los ingenieros del software debieran adherirse a los Ocho Principios siguientes:
 
 **1. Sociedad:** Los ingenierios de software actuarán de manera coherente con el interés social.
+
 **2. Cliente y Empresario:** los ingenieros de software actuarán de manera que produzca el mejor resultado para cliente y empresario, y de manera coherente con el interés social.
+
 **3. Producto:** los ingenieros de software garantizarán que sus productos y las modificaciones correspondientes cumplen los mayores estándares profesionales posibles.
+
 **4. Valoración:** los ingenieros de software mantendrán la integridad e independencia en sus valoraciones profesionales.
+
 **5. Gestión:** los líderes y gestores de ingeniería de software suscribirán y promoverán un enfoque ético en la gestión del desarrollo y mantenimiento del software.
+
 **6. Profesión:** los ingenieros de software avanzarán en la integridad y reputación de la profesión, de manerar consistente con el interés social.
+
 **7. Compañeros:** los ingenieros del software serán justos y apoyarán a sus compañeros.
+
 **8. Personal:** los ingenieros del software participarán en el aprendizaje continuo referente a la práctica de su profesión y promoverán un enfoque ético en la práctica de la profesión.
 
 
