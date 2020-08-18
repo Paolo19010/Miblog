@@ -33,3 +33,6 @@ Después de esta crisis, se intentaron establecer estas pautas, aplicándolos a 
 
 ![alt text](https://histinf.blogs.upv.es/files/2011/01/vi%C3%B1eta.jpg "Lagrange Demo Image")
 
+# Fuentes
+* https://www.scrummanager.net/bok/index.php?title=Crisis_del_software
+* https://histinf.blogs.upv.es/2011/01/04/la-crisis-del-software/

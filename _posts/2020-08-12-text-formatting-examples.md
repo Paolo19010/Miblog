@@ -30,6 +30,7 @@ Así, los modelos por una parte suministran una guía para los ingenieros de sof
 ## Modelo Cascada
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/El_modelo_de_desarrollo_en_cascada.svg/350px-El_modelo_de_desarrollo_en_cascada.svg.png "Lagrange Demo Image")
+(Figura 1. Paradigma en Cascada)
 
 
 Este  es el más básico de todos los modelos, y sirve como bloque de construcción para los demás modelos de ciclo de vida. La visión del modelo cascada del desarrollo de software es muy simple; dice que el desarrollo de software puede ser a través de una secuencia simple de frases. Cada frase tienen un conjunto de metas bien definidas, y las actividades dentro de una fase contribuyen a la satisfacción de metas de la fase o quizás a una subsecuencia de metas de la fase. Las flechas muestran el flujo de información entre las fases. La flecha de avance muestra el flujo normal. Las flechas hacia atrás representan la retroalimentación.
@@ -52,6 +53,7 @@ Se recomienda utilizar para aquellos que disponen de todas las especificaciones 
 ## Modelo en Espiral
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ModeloEspiral.svg/359px-ModeloEspiral.svg.png "Lagrange Demo Image")
+(Figura 2. Paradigma en espiral)
 
 La dimensión radial en la figura refleja costos acumulativos incurridos en el proyecto.
 
@@ -79,6 +81,7 @@ El modelo espiral no es una alternativa del modelo cascada, ellos son completame
 ## Modelo Incremental
 
 ![alt text](https://www.researchgate.net/profile/Alejandro_Aldas_Alarcon/publication/326571456/figure/fig6/AS:651789682614280@1532410178239/Figura-10-Modelo-de-proceso-incremental-Fuente.png "Lagrange Demo Image")
+(Figura 3. Paradigma Incremental)
 
 Desarrollo iterativo y creciente (o incremental) es un proceso de desarrollo de software, creado en respuesta a las debilidades del modelo tradicional  de cascada.
 
@@ -100,6 +103,7 @@ El modelo incremental se aplica cuando en un proyecto tenemos un tiempo límite 
 ## Modelo Prototipo
 
 ![alt text](https://sites.google.com/site/is11801/_/rsrc/1239160607222/contenido/modelos-de-proceso-evolutivo/prototipos.jpg "Lagrange Demo Image")
+(Figura 4. Paradigma en Prototipo)
 
 El modelo de prototipos, en ingeniería de software, pertenece a los modelos de desarrollo evolutivo. El prototipo debe ser construido en poco tiempo, usando los programas adecuados y no se debe utilizar muchos recursos. El diseño rápido se centra en  una representación de aquellos aspectos del software que serán visibles para el cliente o el usuario final.
 
@@ -118,6 +122,7 @@ Este modelo es adecuado cuando se desea desarrollar programas didácticos comput
 ## Modelo basado en componentes
 
 ![alt text](https://matriarm.files.wordpress.com/2009/12/untitled2.jpg "Lagrange Demo Image")
+(Figura 5. paradigma basado en componentes)
 
 El modelo de desarrollo basado en componentes conduce a la reutilización del software, y la reutilización proporciona beneficios a los ingenieros de software. Según estudios de reutilización, QSM Asocciate, Inc. Informa que el ensamblaje de componentes lleva a una reducción del 70% el ciclo de desarrollo un 84% del coste del proyecto y un índice de productividad del 26.2. No hay duda que el ensamblaje de componentes proporciona ventajas significativas para los ingenieros de software.
 
@@ -137,6 +142,7 @@ El proceso unificado de desarrollo de software representa un número de modelos 
 ## Modelo de desarrollo agil
 
 ![alt text](https://comunidad.iebschool.com/metodologiasagiles/files/2015/05/metodologias-agiles.jpg "Lagrange Demo Image")
+(Figura 6. Paradigma de desarrollo agil)
 
 Las metodologías ágiles son métodos de desarrollo de software en los que las necesidades y soluciones evolucionan a través de una colaboración estrecha entre equipos multidisciplinarios. Se caracterizan por enfatizar la comunicación frente a la documentación, por el desarrollo evolutivo y por su flexibilidad.
 
@@ -185,6 +191,7 @@ Estas metodologías surgen a principios del 2001 en respuesta a los modelos de p
 ## Modelo de desarrollo orientado a objetos
 
 ![alt text](https://image.slidesharecdn.com/anlisis-final-100825163628-phpapp01/95/desarrollo-de-software-orienta-a-objetos-6-728.jpg?cb=1282754285 "Lagrange Demo Image")
+(Figura 7. Paradigma orientado a Objetos)
 
 En los requerimientos del flujo de trabajo como objetivo principal es mantener un acuerdo
 entre los clientes, usuarios y desarrolladores sobre lo que debe hacer la herramienta
@@ -248,6 +255,7 @@ física de las organizaciones.
 ## Modelo de desarrollo (Reutilización)
 
 ![alt text](https://lh5.googleusercontent.com/proxy/bCvoz5LUAoeEyaFdH5dKlaFatSiDyDfVvGgM09oGz57SUhcKHQ8SY5V3KQVwJ4P3PZnMAAS5ae-q9sAKqEzfHwU-GrqxEyMI7SALGLa5a4cEw6DsEqVE8Sr6s0z8e0AhcqREShx1Jw0FqEiC8dsIFAoTZpj-9puzSw3qY0Brahv6omIaj3WFvtkU1Y0CeZ5QRcVzlOSoS-uz7AggqjkAqiyXLBVpdKuNVXy5VBeGCg=w1200-h630-p-k-no-nu "Lagrange Demo Image")
+(Figura 8. Paradigma de reutilización)
 
 Es el proceso de creación de sistemas de software a partir de un software existente, en lugar de tener que rediseñar desde el principio.
 En los años 60, se construyeron bibliotecas de subrutinas científicas reutilizables con un dominio de aplicación limitado, en la actualidad se crean componentes comunes a varios procesos con el fin de poder utilizarlos en la construcción de software.
@@ -274,6 +282,7 @@ La reutilización de software aparece como una alternativa para desarrollar apli
 ## Desarrollo de metodos formales de software
 
 ![alt text](https://1.bp.blogspot.com/-o9WhrBCvXtE/UYWiT-cJ7BI/AAAAAAAAACE/k_ZgtvdB_5M/s1600/metodos+formales.jpg "Lagrange Demo Image")
+(Figura 9. Paradigma de metodos formales)
 
 Los métodos formales surgieron como puntos de vista analíticos con los que es posible verificar el desarrollo de sistemas mediante la lógica y las matemáticas, lo que aporta grandes ventajas para mejorar la calidad de los programas y por tanto la Ingeniería de Software.
 
@@ -300,3 +309,13 @@ Por tanto, los métodos formales en la Ingeniería de Software son técnicas mat
 ## Conclusión 
 
 Luego de ver algunos de los modelos de ciclo de vida más utilizados surge la pregunta con la respuesta más codiciada: ¿qué modelo de ciclo de vida elegir? Sabemos que ninguno predomina sobre los otros. Por ello, debemos elegir el modelo que mejor se adapte al proyecto que desarrollemos. Podemos analizar, para guiarnos en nuestra elección, la complejidad del problema, el tiempo que disponeos para hacer la entrega final, o si el usuario o cliente desea entregas parciales, la comunicación que existe entre el equipo de desarrollo y el usuario y, por último, que certeza ( o incertidumbre) tenemos de que los requerimientos dados por el usuario son correctos y completos.
+
+
+## Fuentes
+* https://es.scribd.com/document/102042266/Ciclo-de-Vida-Del-Software
+* https://es.scribd.com/doc/105039703/Ciclo-de-Vida-Del-Software
+* https://www.google.com/search?q=ciclo+de+vida+de+software&           sxsrf=ALeKk01X4_mZwqlkRfJKqMzZSihB5KnRKg:1595290228258&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj3sPmah93qAhXpRt8KHXexCXYQ_AUoAXoECBcQAw&biw=1366&bih=657#imgrc=vjCjIi_PkgOh3M
+* https://es.wikiversity.org/wiki/Metodolog%C3%ADas_%C3%A1giles_de_desarrollo_software
+* https://www.iebschool.com/blog/que-son-metodologias-agiles-agile-scrum/#:~:text=Metodolog%C3%ADas%20%C3%A1giles%20m%C3%A1s%20utilizadas,-Pero%2C%20%C2%BFcu%C3%A1les%20son&text=Existen%20diferentes%20opciones%20pero%20las,12%20principios%20del%20software%20%C3%A1gil.
+
+

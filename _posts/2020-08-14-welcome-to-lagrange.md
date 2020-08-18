@@ -63,4 +63,6 @@ Actualmente, hay siete grandes categorías de software de computadora que plante
 
 **Software de inteligencia artificial**: hace uso de algoritmos no numéricos para resolver problemas complejos que no son fáciles de tratar computacionalmente o con el análisis directo. Las aplicaciones en esta área incluyen robótica, sistemas expertos, reconocimiento de patrones (imagen y voz), redes neurales artificiales, demostración de teoremas y juegos.
 
-
+## Fuentes
+* https://www.edx.org/es/course/introduccion-a-la-ingenieria-del-software
+* https://www.monografias.com/trabajos5/inso/inso.shtml

@@ -290,6 +290,13 @@ Los ingenieros de software debieran obligarse a hacer del análisis, especificac
 **8. Personal:** los ingenieros del software participarán en el aprendizaje continuo referente a la práctica de su profesión y promoverán un enfoque ético en la práctica de la profesión.
 
 
+## Fuentes
+* https://sg.com.mx/revista/1/procesos-software
+* https://alarcos.esi.uclm.es/per/fruiz/curs/pso/trans/res.pdf
+* https://www.javiergarzas.com/2011/03/swebok.html#:~:text=El%20SWEBOK%20(Software%20Engineering%20Body,de%20la%20ingenier%C3%ADa%20del%20software.&text=Es%20una%20gu%C3%ADa%2C%20obviamente%20no,Requisitos%20Software
+* http://clases3gingsof.wikifoundry.com/page/PMBoK+%28Project+Managment+Body+of+Knowedge%29
+* https://es.slideshare.net/kamilaparbeelaezz/25-estandares-ieee-calidad-de-software
+* http://www.scielo.org.co/pdf/entra/v13n1/1900-3803-entra-13-01-00236.pdf
 
 
 
